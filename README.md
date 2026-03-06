@@ -1,9 +1,16 @@
-# data-modeling
-## ENGLISH
+# Data Modeling Portfolio
 
 This repository contains projects focused on **data modeling and database architecture**.
 
-The goal of this repository is to demonstrate knowledge in:
+The goal of this repository is to demonstrate knowledge in relational database design, normalization, and analytical data modeling.
+
+---
+
+## English
+
+### Objectives
+
+Demonstrate knowledge in:
 
 - Relational database design
 - Data normalization
@@ -11,39 +18,30 @@ The goal of this repository is to demonstrate knowledge in:
 - Data warehouse architecture
 - Schema design using SQL
 
----
-
-## Technologies
+### Technologies
 
 - SQL
 - PostgreSQL
 - Database design concepts
 - Data warehouse modeling
 
----
+### Repository Structure
 
-## Repository Structure
-
-### Relational Modeling
+#### Relational Modeling
 Examples of relational database schemas for different business scenarios.
 
 Projects include:
 - E-commerce database
 - Hospital management database
 
----
-
-### Data Normalization
+#### Data Normalization
 Examples demonstrating database normalization:
 
 - First Normal Form (1NF)
 - Second Normal Form (2NF)
 - Third Normal Form (3NF)
 
----
-
-### Data Warehouse Modeling
-
+#### Data Warehouse Modeling
 Examples of analytical database structures:
 
 - Star Schema
@@ -51,28 +49,15 @@ Examples of analytical database structures:
 
 ---
 
-## Objectives
-
-This repository was created to demonstrate practical skills in:
-
-- Database design
-- Structuring data efficiently
-- Preparing data models for analytical systems
-
----
-
-## Author - Elen Vieira
-
-Portfolio created as part of a Data Analytics learning path.
-
-
-## PORTUGUÊS
-
-# Portfólio de Modelagem de Dados
+## Português
 
 Este repositório contém projetos focados em **modelagem de dados e arquitetura de bancos de dados**.
 
-O objetivo deste repositório é demonstrar conhecimentos em:
+O objetivo é demonstrar conhecimentos em modelagem relacional, normalização de dados e construção de modelos analíticos.
+
+### Objetivos
+
+Demonstrar conhecimentos em:
 
 - Design de bancos de dados relacionais
 - Normalização de dados
@@ -80,20 +65,16 @@ O objetivo deste repositório é demonstrar conhecimentos em:
 - Arquitetura de Data Warehouse
 - Estruturação de schemas utilizando SQL
 
----
-
-## Tecnologias
+### Tecnologias
 
 - SQL
 - PostgreSQL
 - Conceitos de design de banco de dados
 - Modelagem de Data Warehouse
 
----
+### Estrutura do Repositório
 
-## Estrutura do Repositório
-
-### Modelagem Relacional
+#### Modelagem Relacional
 Exemplos de esquemas de bancos de dados relacionais para diferentes cenários de negócio.
 
 Projetos incluídos:
@@ -101,9 +82,7 @@ Projetos incluídos:
 - Banco de dados de E-commerce
 - Banco de dados de Gestão Hospitalar
 
----
-
-### Normalização de Dados
+#### Normalização de Dados
 
 Exemplos demonstrando o processo de normalização de bancos de dados:
 
@@ -111,9 +90,7 @@ Exemplos demonstrando o processo de normalização de bancos de dados:
 - Segunda Forma Normal (2FN)
 - Terceira Forma Normal (3FN)
 
----
-
-### Modelagem de Data Warehouse
+#### Modelagem de Data Warehouse
 
 Exemplos de estruturas de banco de dados voltadas para análise de dados:
 
@@ -122,17 +99,8 @@ Exemplos de estruturas de banco de dados voltadas para análise de dados:
 
 ---
 
-## Objetivos
+## Author
 
-Este repositório foi criado para demonstrar habilidades práticas em:
+**Elen Vieira**
 
-- Modelagem e estruturação de bancos de dados
-- Organização eficiente de dados
-- Construção de modelos de dados voltados para análise
-
----
-
-## Autora - Elen Vieira
-
-Portfólio desenvolvido como parte de uma jornada de aprendizado em Análise de Dados.
-
+Portfolio developed as part of a Data Analytics learning journey.
