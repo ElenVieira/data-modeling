@@ -1,5 +1,5 @@
 # data-modeling
-ENGLISH
+## ENGLISH
 
 This repository contains projects focused on **data modeling and database architecture**.
 
@@ -65,9 +65,8 @@ This repository was created to demonstrate practical skills in:
 
 Portfolio created as part of a Data Analytics learning path.
 
--------------------------------------------------------------
 
-PORTUGUÊS
+## PORTUGUÊS
 
 # Portfólio de Modelagem de Dados
 
