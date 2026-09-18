@@ -1,12 +1,29 @@
-﻿# Dados do projeto
+﻿# Dados | Data
 
-## Fonte
+## Português
+
+### Fonte
 
 [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-## Organização local
+### Organização local
 
 - `raw/`: arquivos originais baixados da fonte.
 - `processed/`: dados gerados após tratamento e transformação.
 
 Os dados brutos e processados não são versionados neste repositório. Isso evita publicar arquivos grandes, duplicados ou sujeitos a restrições de distribuição.
+
+---
+
+## English
+
+### Source
+
+[Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+### Local organization
+
+- `raw/`: original files downloaded from the source.
+- `processed/`: files generated after cleaning and transformation.
+
+Raw and processed data are not versioned in this repository. This prevents publishing large, duplicate, or distribution-restricted files.
