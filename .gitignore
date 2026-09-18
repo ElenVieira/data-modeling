@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credenciais e chaves
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dados locais do projeto Olist
+projects/01-olist-sales-dashboard/data/raw/
+projects/01-olist-sales-dashboard/data/processed/
+*.zip
