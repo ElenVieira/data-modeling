@@ -3,6 +3,8 @@
 
 -- Atualização completa: evita duplicar dados ao reexecutar o processo.
 -- Full refresh: prevents duplicate data when the process is rerun.
+BEGIN;
+
 TRUNCATE TABLE staging.stg_orders;
 
 INSERT INTO staging.stg_orders (
@@ -29,3 +31,5 @@ WHERE NULLIF(BTRIM(order_id), '') IS NOT NULL
   AND NULLIF(BTRIM(customer_id), '') IS NOT NULL
   AND NULLIF(BTRIM(order_status), '') IS NOT NULL
   AND NULLIF(BTRIM(order_purchase_timestamp), '') IS NOT NULL;
+
+COMMIT;
