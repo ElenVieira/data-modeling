@@ -1,0 +1,29 @@
+
+# Git e sistema operacional
+.git
+.DS_Store
+
+# Variáveis e credenciais
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Astro e Airflow
+astro
+airflow_settings.yaml
+airflow-webserver.pid
+webserver_config.py
+airflow.cfg
+airflow.db
+.astro/config.yaml.lock
+.astro/standalone/
+.astro/worktrees/
+.astro/*.local.yml
+.astro/*.local.yaml
+**/.astro/dbt_metadata.json
