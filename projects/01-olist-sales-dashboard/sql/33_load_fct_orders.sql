@@ -1,4 +1,4 @@
-﻿-- Carga da fato de pedidos
+-- Carga da fato de pedidos
 -- Load the orders fact table
 
 BEGIN;

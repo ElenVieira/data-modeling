@@ -1,4 +1,4 @@
-﻿-- Geolocalização consolidada por prefixo de CEP
+-- Geolocalização consolidada por prefixo de CEP
 -- Geolocation consolidated by ZIP code prefix
 
 CREATE TABLE IF NOT EXISTS staging.stg_geolocation (

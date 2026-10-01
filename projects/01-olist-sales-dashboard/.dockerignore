@@ -6,3 +6,6 @@ logs/
 .venv
 airflow.db
 airflow.cfg
+data/raw/archive.zip
+data/raw/archive/
+data/processed/

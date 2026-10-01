@@ -1,4 +1,4 @@
-﻿-- Vendedores tratados para uso nas camadas analíticas
+-- Vendedores tratados para uso nas camadas analíticas
 -- Cleaned sellers for analytical layers
 
 CREATE TABLE IF NOT EXISTS staging.stg_sellers (

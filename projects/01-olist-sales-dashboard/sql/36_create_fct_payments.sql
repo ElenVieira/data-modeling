@@ -1,4 +1,4 @@
-﻿-- Fato analítica de pagamentos
+-- Fato analítica de pagamentos
 -- Analytical payments fact table
 
 CREATE TABLE IF NOT EXISTS marts.fct_payments (

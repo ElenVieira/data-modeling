@@ -1,4 +1,4 @@
-﻿-- Camadas do projeto Olist | Olist project layers
+-- Camadas do projeto Olist | Olist project layers
 
 -- Dados brutos recebidos da fonte
 -- Raw data received from the source

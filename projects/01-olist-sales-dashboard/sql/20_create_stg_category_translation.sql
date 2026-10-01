@@ -1,4 +1,4 @@
-﻿-- Tradução das categorias de produtos
+-- Tradução das categorias de produtos
 -- Product category translations
 
 CREATE TABLE IF NOT EXISTS staging.stg_category_translation (

@@ -1,4 +1,4 @@
-﻿-- Carga da dimensão de clientes
+-- Carga da dimensão de clientes
 -- Load the customer dimension
 
 BEGIN;

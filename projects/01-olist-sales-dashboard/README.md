@@ -41,3 +41,28 @@ A data modeling project and Apache Airflow pipeline to analyze sales, logistics,
 - Docker and Astro
 - Power BI
 - Azure Virtual Machine
+
+## Execução do pipeline | Pipeline execution
+
+### Português
+
+Antes da execução, os nove CSVs originais devem estar em `data/raw/` e a conexão `olist_postgres` deve estar configurada no arquivo `.env`.
+
+Ordem dos DAGs:
+
+1. `olist_initialize_database`
+2. `olist_create_raw_tables`
+3. `olist_load_raw`
+4. `olist_validate_raw`
+5. `olist_create_staging_tables`
+6. `olist_load_staging`
+7. `olist_create_marts_tables`
+8. `olist_load_marts`
+
+A camada `raw` preserva os dados originais, `staging` aplica tipagem e limpeza, e `marts` disponibiliza dimensões e fatos para análise.
+
+### English
+
+Before execution, the nine original CSV files must be available in `data/raw/`, and the `olist_postgres` connection must be configured in the `.env` file.
+
+Run the DAGs in the order listed above. The `raw` layer preserves source data, `staging` applies typing and cleaning, and `marts` provides dimensions and facts for analytics.

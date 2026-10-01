@@ -1,4 +1,4 @@
-﻿-- Carga da dimensão de vendedores
+-- Carga da dimensão de vendedores
 -- Load the seller dimension
 
 BEGIN;

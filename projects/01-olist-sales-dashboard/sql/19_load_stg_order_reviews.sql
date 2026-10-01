@@ -1,4 +1,4 @@
-﻿-- Carga da camada raw para a staging de avaliações
+-- Carga da camada raw para a staging de avaliações
 -- Load raw reviews into the staging layer
 
 BEGIN;

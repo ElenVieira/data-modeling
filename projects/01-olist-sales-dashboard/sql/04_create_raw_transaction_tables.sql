@@ -1,4 +1,4 @@
-﻿-- Tabelas brutas transacionais da Olist
+-- Tabelas brutas transacionais da Olist
 -- Raw Olist transactional tables
 
 CREATE TABLE IF NOT EXISTS raw.olist_order_items (

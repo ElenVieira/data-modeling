@@ -1,4 +1,4 @@
-﻿-- Produtos tratados para uso nas camadas analíticas
+-- Produtos tratados para uso nas camadas analíticas
 -- Cleaned products for analytical layers
 
 CREATE TABLE IF NOT EXISTS staging.stg_products (

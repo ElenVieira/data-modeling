@@ -1,4 +1,4 @@
-﻿-- Dimensão analítica de clientes
+-- Dimensão analítica de clientes
 -- Analytical customer dimension
 
 CREATE TABLE IF NOT EXISTS marts.dim_customer (

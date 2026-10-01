@@ -1,4 +1,4 @@
-﻿-- Dimensão calendário
+-- Dimensão calendário
 -- Calendar dimension
 
 CREATE TABLE IF NOT EXISTS marts.dim_date (

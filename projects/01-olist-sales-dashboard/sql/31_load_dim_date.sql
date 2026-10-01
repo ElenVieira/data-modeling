@@ -1,4 +1,4 @@
-﻿-- Carga da dimensão calendário
+-- Carga da dimensão calendário
 -- Load the calendar dimension
 
 BEGIN;

@@ -1,4 +1,4 @@
-﻿-- Consolidação da geolocalização por prefixo de CEP
+-- Consolidação da geolocalização por prefixo de CEP
 -- Consolidate geolocation by ZIP code prefix
 
 BEGIN;

@@ -1,4 +1,4 @@
-﻿-- Pagamentos tratados para uso nas camadas analíticas
+-- Pagamentos tratados para uso nas camadas analíticas
 -- Cleaned payments for analytical layers
 
 CREATE TABLE IF NOT EXISTS staging.stg_order_payments (

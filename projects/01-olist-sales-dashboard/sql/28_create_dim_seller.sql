@@ -1,4 +1,4 @@
-﻿-- Dimensão analítica de vendedores
+-- Dimensão analítica de vendedores
 -- Analytical seller dimension
 
 CREATE TABLE IF NOT EXISTS marts.dim_seller (

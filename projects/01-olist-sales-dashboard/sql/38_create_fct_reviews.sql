@@ -1,4 +1,4 @@
-﻿-- Fato analítica de avaliações
+-- Fato analítica de avaliações
 -- Analytical reviews fact table
 
 CREATE TABLE IF NOT EXISTS marts.fct_reviews (
