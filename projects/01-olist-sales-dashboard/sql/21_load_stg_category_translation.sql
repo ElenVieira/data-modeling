@@ -1,4 +1,4 @@
-﻿-- Carga da tradução de categorias para a staging
+-- Carga da tradução de categorias para a staging
 -- Load category translations into the staging layer
 
 BEGIN;

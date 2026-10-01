@@ -1,4 +1,4 @@
-﻿-- Dimensão analítica de produtos
+-- Dimensão analítica de produtos
 -- Analytical product dimension
 
 CREATE TABLE IF NOT EXISTS marts.dim_product (

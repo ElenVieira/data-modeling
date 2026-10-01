@@ -1,4 +1,4 @@
-﻿-- Clientes tratados para uso nas camadas analíticas
+-- Clientes tratados para uso nas camadas analíticas
 -- Cleaned customers for analytical layers
 
 CREATE TABLE IF NOT EXISTS staging.stg_customers (

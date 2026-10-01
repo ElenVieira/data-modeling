@@ -1,4 +1,4 @@
-﻿-- Tabela bruta de pedidos recebidos da Olist
+-- Tabela bruta de pedidos recebidos da Olist
 -- Raw orders table received from Olist
 
 CREATE TABLE IF NOT EXISTS raw.olist_orders (

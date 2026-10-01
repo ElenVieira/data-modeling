@@ -1,4 +1,4 @@
-﻿-- Carga da fato de avaliações
+-- Carga da fato de avaliações
 -- Load the reviews fact table
 
 BEGIN;

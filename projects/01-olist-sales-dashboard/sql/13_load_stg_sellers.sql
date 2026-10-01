@@ -1,4 +1,4 @@
-﻿-- Carga da camada raw para a staging de vendedores
+-- Carga da camada raw para a staging de vendedores
 -- Load raw sellers into the staging layer
 
 BEGIN;

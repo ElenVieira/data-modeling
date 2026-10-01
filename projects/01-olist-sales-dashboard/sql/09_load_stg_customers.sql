@@ -1,4 +1,4 @@
-﻿-- Carga da camada raw para a staging de clientes
+-- Carga da camada raw para a staging de clientes
 -- Load raw customers into the staging layer
 
 BEGIN;

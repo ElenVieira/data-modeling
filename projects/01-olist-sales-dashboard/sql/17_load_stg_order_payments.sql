@@ -1,4 +1,4 @@
-﻿-- Carga da camada raw para a staging de pagamentos
+-- Carga da camada raw para a staging de pagamentos
 -- Load raw payments into the staging layer
 
 BEGIN;

@@ -1,4 +1,4 @@
-﻿-- Carga da camada raw para a staging de itens de pedido
+-- Carga da camada raw para a staging de itens de pedido
 -- Load raw order items into the staging layer
 
 BEGIN;

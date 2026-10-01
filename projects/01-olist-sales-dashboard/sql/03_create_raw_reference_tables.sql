@@ -1,4 +1,4 @@
-﻿-- Tabelas brutas de cadastro e referência da Olist
+-- Tabelas brutas de cadastro e referência da Olist
 -- Raw Olist reference tables
 
 CREATE TABLE IF NOT EXISTS raw.olist_customers (

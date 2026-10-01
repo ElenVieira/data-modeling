@@ -1,4 +1,4 @@
-﻿-- Carga da dimensão de produtos
+-- Carga da dimensão de produtos
 -- Load the product dimension
 
 BEGIN;

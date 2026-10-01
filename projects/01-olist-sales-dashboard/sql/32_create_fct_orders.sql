@@ -1,4 +1,4 @@
-﻿-- Fato analítica de pedidos
+-- Fato analítica de pedidos
 -- Analytical orders fact table
 
 CREATE TABLE IF NOT EXISTS marts.fct_orders (

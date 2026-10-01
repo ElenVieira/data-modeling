@@ -1,4 +1,4 @@
-﻿-- Carga da camada raw para a staging de pedidos
+-- Carga da camada raw para a staging de pedidos
 -- Load raw orders into the staging layer
 
 -- Atualização completa: evita duplicar dados ao reexecutar o processo.

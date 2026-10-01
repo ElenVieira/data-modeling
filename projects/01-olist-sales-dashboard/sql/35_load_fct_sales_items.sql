@@ -1,4 +1,4 @@
-﻿-- Carga da fato de itens vendidos
+-- Carga da fato de itens vendidos
 -- Load the sales items fact table
 
 BEGIN;

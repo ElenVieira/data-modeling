@@ -1,4 +1,4 @@
-﻿-- Itens de pedido tratados para uso nas camadas analíticas
+-- Itens de pedido tratados para uso nas camadas analíticas
 -- Cleaned order items for analytical layers
 
 CREATE TABLE IF NOT EXISTS staging.stg_order_items (

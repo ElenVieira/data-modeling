@@ -1,4 +1,4 @@
-﻿-- Tabela bruta de geolocalização da Olist
+-- Tabela bruta de geolocalização da Olist
 -- Raw Olist geolocation table
 
 CREATE TABLE IF NOT EXISTS raw.olist_geolocation (

@@ -1,4 +1,4 @@
-﻿-- Carga da fato de pagamentos
+-- Carga da fato de pagamentos
 -- Load the payments fact table
 
 BEGIN;

@@ -1,4 +1,4 @@
-﻿-- Fato analítica de itens vendidos
+-- Fato analítica de itens vendidos
 -- Analytical sales items fact table
 
 CREATE TABLE IF NOT EXISTS marts.fct_sales_items (

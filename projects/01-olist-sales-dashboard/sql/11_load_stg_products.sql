@@ -1,4 +1,4 @@
-﻿-- Carga da camada raw para a staging de produtos
+-- Carga da camada raw para a staging de produtos
 -- Load raw products into the staging layer
 
 BEGIN;

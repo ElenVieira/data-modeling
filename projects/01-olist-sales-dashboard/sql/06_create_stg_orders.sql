@@ -1,4 +1,4 @@
-﻿-- Pedidos tratados para uso nas camadas analíticas
+-- Pedidos tratados para uso nas camadas analíticas
 -- Cleaned orders for analytical layers
 
 CREATE TABLE IF NOT EXISTS staging.stg_orders (
