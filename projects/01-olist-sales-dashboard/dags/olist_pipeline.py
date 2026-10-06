@@ -14,6 +14,7 @@ PIPELINE_DAGS = [
     "olist_load_staging",
     "olist_create_marts_tables",
     "olist_load_marts",
+    "olist_validate_marts",
 ]
 
 
