@@ -58,11 +58,16 @@ Ordem dos DAGs:
 6. `olist_load_staging`
 7. `olist_create_marts_tables`
 8. `olist_load_marts`
+9. `olist_validate_marts`
+
+A DAG controladora `olist_pipeline` executa as nove etapas em sequência e aguarda o sucesso de cada uma.
 
 A camada `raw` preserva os dados originais, `staging` aplica tipagem e limpeza, e `marts` disponibiliza dimensões e fatos para análise.
 
 ### English
 
 Before execution, the nine original CSV files must be available in `data/raw/`, and the `olist_postgres` connection must be configured in the `.env` file.
+
+The `olist_pipeline` controller DAG runs all nine stages sequentially and waits for each stage to finish successfully.
 
 Run the DAGs in the order listed above. The `raw` layer preserves source data, `staging` applies typing and cleaning, and `marts` provides dimensions and facts for analytics.
