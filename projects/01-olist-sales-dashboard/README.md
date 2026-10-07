@@ -59,6 +59,8 @@ Ordem dos DAGs:
 7. `olist_create_marts_tables`
 8. `olist_load_marts`
 9. `olist_validate_marts`
+10. `olist_create_analytics_views`
+11. `olist_validate_analytics`
 
 A DAG controladora `olist_pipeline` executa as nove etapas em sequência e aguarda o sucesso de cada uma.
 
@@ -71,3 +73,13 @@ Before execution, the nine original CSV files must be available in `data/raw/`, 
 The `olist_pipeline` controller DAG runs all nine stages sequentially and waits for each stage to finish successfully.
 
 Run the DAGs in the order listed above. The `raw` layer preserves source data, `staging` applies typing and cleaning, and `marts` provides dimensions and facts for analytics.
+
+## Visões analíticas | Analytics views
+
+- `analytics.vw_sales_overview`: vendas por item, categoria, período e localização — 112.650 registros.
+- `analytics.vw_logistics_overview`: entregas, prazos e atrasos por pedido — 99.441 registros.
+- `analytics.vw_customer_satisfaction`: avaliações, comentários e desempenho logístico — 99.224 registros.
+
+As views foram criadas para fornecer uma camada simples e pronta para consumo pelo Power BI.
+
+The views provide a simplified analytics layer ready for consumption by Power BI.
